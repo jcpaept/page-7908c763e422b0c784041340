@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "0bc0347fbd6955e9dff3b55e",
+  "owner": "jcpaept",
+  "repo": "page-7908c763e422b0c784041340",
+  "title": "紅海",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7908c763e422b0c784041340",
+      "a": "紅海",
+      "b": "",
+      "entity": "紅海",
+      "brand": "紅海",
+      "separator": "",
+      "path": "index.html",
+      "hash": "a7c55da140277823ea1e7c5615e0dc3ca617c8fa12912b993cc0709170fcd4cf",
+      "content": {
+        "keyword1": "紅海",
+        "keyword2": "",
+        "primary_entity": "紅海",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "紅海提供深海级稳定专线与琥珀级低延迟加速，覆盖流媒体解锁、游戏加速与团队组网，按月或按年订阅。",
+          "AI_DESCRIPTION": "紅海提供深海级稳定专线与琥珀级低延迟加速，覆盖流媒体解锁、游戏加速与团队组网，按月或按年订阅。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root{--bg:#061a2f;--panel:#0a2742;--panel2:#0d3155;--line:#163a63;--amber:#f5a623;--amber-soft:#e89b16;--ink:#e8f1fa;--muted:#8aa7c4}\n*{box-sizing:border-box}\nhtml,body{margin:0;padding:0}\nbody{background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;line-height:1.6}\na{color:var(--amber);text-decoration:none}\nmain{padding-bottom:80px}\n\n/* Hero */\n.hero{display:grid;grid-template-columns:1.2fr 1fr;gap:0;min-height:88vh;border-bottom:1px solid var(--line)}\n.hero-left{padding:72px 56px 48px;display:flex;flex-direction:column;justify-content:space-between}\n.brand-tag{font-size:13px;letter-spacing:0.4em;color:var(--muted);text-transform:uppercase}\n.hero h1{font-size:clamp(48px,7vw,96px);line-height:1.02;margin:28px 0 20px;font-weight:800;letter-spacing:-0.02em}\n.hero h1 span{color:var(--amber)}\n.hero-lead{font-size:18px;color:var(--muted);max-width:520px}\n.hero-nav{margin-top:32px;display:flex;flex-wrap:wrap;gap:10px}\n.hero-nav a{display:inline-block;padding:8px 16px;border:1px solid var(--line);border-radius:999px;font-size:13px;color:var(--ink);background:rgba(255,255,255,0.02)}\n.hero-nav a:hover{border-color:var(--amber);color:var(--amber)}\n.hero-right{background:linear-gradient(160deg,var(--panel) 0%,var(--panel2) 100%);padding:64px 48px;display:flex;flex-direction:column;gap:24px;border-left:1px solid var(--line)}\n.info-card{background:rgba(255,255,255,0.03);border:1px solid var(--line);border-radius:24px;padding:28px;box-shadow:0 18px 40px rgba(0,0,0,0.25)}\n.info-card h3{margin:0 0 16px;font-size:15px;color:var(--amber);letter-spacing:0.08em}\n.info-list{display:grid;gap:14px}\n.info-row{display:flex;justify-content:space-between;align-items:baseline;border-bottom:1px dashed var(--line);padding-bottom:10px;font-size:15px}\n.info-row:last-child{border-bottom:0}\n.info-row b{color:var(--ink);font-weight:600}\n.info-row span{color:var(--muted);font-size:13px}\n\n/* Section */\nsection{padding:72px 56px}\n.section-head{display:flex;align-items:baseline;gap:16px;margin-bottom:40px}\n.section-head h2{font-size:32px;margin:0;font-weight:700}\n.section-head em{color:var(--amber);font-style:normal;font-size:14px;letter-spacing:0.2em}\n\n/* Plans */\n.plans{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;align-items:start}\n.plan{background:var(--panel);border:1px solid var(--line);border-radius:24px;padding:32px;box-shadow:0 14px 36px rgba(0,0,0,0.28)}\n.plan:nth-child(2){transform:translateY(24px);border-color:var(--amber);background:linear-gradient(180deg,var(--panel2),var(--panel))}\n.plan:nth-child(3){transform:translateY(48px)}\n.plan h3{margin:0 0 6px;font-size:22px}\n.plan .price{font-size:36px;color:var(--amber);font-weight:800;margin:12px 0 4px}\n.plan .annual{color:var(--muted);font-size:13px;margin-bottom:24px}\n.plan ul{list-style:none;padding:0;margin:0;display:grid;gap:12px}\n.plan li{font-size:14px;color:var(--ink);padding-left:22px;position:relative}\n.plan li:before{content:\"\";position:absolute;left:0;top:8px;width:8px;height:8px;border-radius:50%;background:var(--amber)}\n.plan .badge{display:inline-block;font-size:12px;color:var(--bg);background:var(--amber);padding:3px 10px;border-radius:999px;margin-bottom:12px}\n\n/* Usage */\n.steps{display:grid;grid-template-columns:repeat(3,1fr);gap:28px}\n.step{background:rgba(255,255,255,0.02);border-radius:24px;padding:28px;box-shadow:0 10px 28px rgba(0,0,0,0.22)}\n.step .num{font-size:40px;color:var(--amber);font-weight:800;line-height:1}\n.step h3{margin:16px 0 8px;font-size:18px}\n.step p{margin:0;color:var(--muted);font-size:14px}\n\n/* Clients */\n.clients-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:24px}\n.client{background:var(--panel);border-radius:24px;padding:28px;border:1px solid var(--line);box-shadow:0 10px 28px rgba(0,0,0,0.22)}\n.client h3{margin:0 0 8px}\n.client p{margin:0 0 16px;color:var(--muted);font-size:14px}\n.client .link{font-size:13px;color:var(--amber)}\n\n/* FAQ */\n.faq-group{margin-bottom:40px}\n.faq-group h3{color:var(--amber);font-size:18px;margin-bottom:20px;padding-bottom:10px;border-bottom:1px solid var(--line)}\n.faq-item{background:rgba(255,255,255,0.02);border-radius:20px;padding:20px 24px;margin-bottom:16px;box-shadow:0 8px 22px rgba(0,0,0,0.18)}\n.faq-item details summary{cursor:pointer;font-weight:600;font-size:15px;list-style:none}\n.faq-item details summary::-webkit-details-marker{display:none}\n.faq-item details summary:before{content:\"+\";color:var(--amber);margin-right:10px}\n.faq-item details[open] summary:before{content:\"–\"}\n.faq-item p{margin:12px 0 0;color:var(--muted);font-size:14px}\n\n/* Footer */\nfooter{border-top:1px solid var(--line);padding:32px 56px;color:var(--muted);font-size:13px;display:flex;justify-content:space-between;flex-wrap:wrap;gap:12px}\n\n@media (max-width:880px){\n  .hero{grid-template-columns:1fr}\n  .hero-right{border-left:0;border-top:1px solid var(--line)}\n  .hero-left,section,.hero-right{padding:40px 24px}\n  .plans,.steps,.clients-grid{grid-template-columns:1fr}\n  .plan:nth-child(2),.plan:nth-child(3){transform:none}\n}\n</style><main>\n\n<header class=\"hero\">\n  <div class=\"hero-left\">\n    <div>\n      <div class=\"brand-tag\">紅海 / Red Sea Network</div>\n      <h1>紅海 · 深海级稳定<br><span>琥珀级延迟</span></h1>\n      <p class=\"hero-lead\">专线穿透、流媒体解锁、游戏加速。按需订阅，三档可选，不卖噱头。</p>\n      <nav class=\"hero-nav\">\n        <a href=\"#plans\">订阅套餐</a>\n        <a href=\"#usage\">使用方式</a>\n        <a href=\"#clients\">客户端</a>\n        <a href=\"#faq\">常见问题</a>\n      </nav>\n    </div>\n  </div>\n\n  <aside class=\"hero-right\">\n    <div class=\"info-card\">\n      <h3>网络概览</h3>\n      <div class=\"info-list\">\n        <div class=\"info-row\"><b>接入方式</b><span>专线 / IPLC</span></div>\n        <div class=\"info-row\"><b>设备并发</b><span>3 — 20 台</span></div>\n        <div class=\"info-row\"><b>流媒体</b><span>原生解锁</span></div>\n        <div class=\"info-row\"><b>起步价格</b><span>¥15/月</span></div>\n        <div class=\"info-row\"><b>工单响应</b><span>7×24</span></div>\n      </div>\n    </div>\n    <div class=\"info-card\">\n      <h3>适合谁</h3>\n      <p>个人影音用户、跨境游戏玩家、远程办公团队。从单人到二十人小组，都有对应档位。</p>\n    </div>\n  </aside>\n</header>\n\n<section id=\"plans\">\n  <div class=\"section-head\">\n    <h2>订阅套餐</h2>\n    <em>阶梯递进</em>\n  </div>\n\n  <div class=\"plans\">\n    <article class=\"plan\">\n      <h3>基础版</h3>\n      <div class=\"price\">¥15/月</div>\n      <div class=\"annual\">按年付仅需 ¥150/年</div>\n      <ul>\n        <li>每月 100GB 高速流量</li>\n        <li>支持 3 台设备同时在线</li>\n        <li>解锁基础流媒体</li>\n        <li>普通线路节点池</li>\n      </ul>\n    </article>\n\n    <article class=\"plan\">\n      <span class=\"badge\">推荐</span>\n      <h3>旗舰版</h3>\n      <div class=\"price\">¥35/月</div>\n      <div class=\"annual\">按年付仅需 ¥350/年</div>\n      <ul>\n        <li>每月 300GB 高速流量</li>\n        <li>支持 5 台设备同时在线</li>\n        <li>全节点原生流媒体解锁</li>\n        <li>IPLC 专线游戏加速优化</li>\n        <li>7×24 优先工单支持</li>\n      </ul>\n    </article>\n\n    <article class=\"plan\">\n      <h3>团队版</h3>\n      <div class=\"price\">¥85/月</div>\n      <div class=\"annual\">按年付仅需 ¥850/年</div>\n      <ul>\n        <li>每月 1000GB 高速流量</li>\n        <li>支持 20 台设备同时在线</li>\n        <li>VIP 专属高带宽节点</li>\n        <li>支持企业定制路由</li>\n        <li>专属客户经理服务</li>\n      </ul>\n    </article>\n  </div>\n</section>\n\n<section id=\"usage\">\n  <div class=\"section-head\">\n    <h2>使用方式</h2>\n    <em>三步接入</em>\n  </div>\n\n  <div class=\"steps\">\n    <article class=\"step\">\n      <div class=\"num\">01</div>\n      <h3>选择套餐</h3>\n      <p>按设备数和流量需求选档。年付更划算，可随时升级。</p>\n    </article>\n    <article class=\"step\">\n      <div class=\"num\">02</div>\n      <h3>下载客户端</h3>\n      <p>Windows、macOS、Android、iOS 均支持。导入订阅链接即可。</p>\n    </article>\n    <article class=\"step\">\n      <div class=\"num\">03</div>\n      <h3>选择节点</h3>\n      <p>按用途切换：影音选解锁线路，游戏选 IPLC 低延迟线路。</p>\n    </article>\n  </div>\n</section>\n\n<section id=\"clients\">\n  <div class=\"section-head\">\n    <h2>客户端</h2>\n    <em>按平台选择</em>\n  </div>\n\n  <div class=\"clients-grid\">\n    <article class=\"client\">\n      <h3>桌面端</h3>\n      <p>Windows 10 及以上、macOS 11 及以上。支持系统代理与分流规则。</p>\n      <div class=\"link\">下载地址以订阅页面为准</div>\n    </article>\n    <article class=\"client\">\n      <h3>移动端</h3>\n      <p>Android 9 及以上、iOS 15 及以上。支持按应用分流与暗色主题。</p>\n      <div class=\"link\">下载地址以订阅页面为准</div>\n    </article>\n  </div>\n</section>\n\n<section id=\"faq\">\n  <div class=\"section-head\">\n    <h2>常见问题</h2>\n    <em>按主题分组</em>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>订阅与计费</h3>\n    <div class=\"faq-item\"><details>\n      <summary>套餐之间能随时升级吗？</summary>\n      <p>可以。补差价后即时生效，剩余流量按比例结转。</p>\n    </details></div>\n    <div class=\"faq-item\"><details>\n      <summary>支持哪些支付方式？</summary>\n      <p>支持支付宝、微信支付与部分加密货币。年付享额外优惠。</p>\n    </details></div>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>网络与节点</h3>\n    <div class=\"faq-item\"><details>\n      <summary>IPLC 专线和普通线路有什么区别？</summary>\n      <p>IPLC 为点对点专线，延迟更低、抖动更小，适合游戏与实时通信。普通线路覆盖更广，适合日常浏览。</p>\n    </details></div>\n    <div class=\"faq-item\"><details>\n      <summary>流媒体解锁覆盖哪些地区？</summary>\n      <p>旗舰版及以上支持主流地区的原生 IP 解锁。具体可用清单以订阅页实时状态为准。</p>\n    </details></div>\n  </div>\n\n  <div class=\"faq-group\">\n    <h3>设备与兼容</h3>\n    <div class=\"faq-item\"><details>\n      <summary>一台账号能在多少设备上使用？</summary>\n      <p>基础版 3 台、旗舰版 5 台、团队版 20 台。超出限制会提示下线最早会话。</p>\n    </details></div>\n    <div class=\"faq-item\"><details>\n      <summary>支持路由器部署吗？</summary>\n      <p>团队版支持企业定制路由方案。个人版建议使用客户端分流，不保证特定固件兼容。</p>\n    </details></div>\n  </div>\n</section>\n\n</main>\n\n<footer>\n  <div>紅海 — 深海级稳定专线服务</div>\n  <div>本页内容为产品介绍，不构成交易要约。</div>\n</footer>",
+          "hash": "f812f96a7cd85baef6b2625476352c9028e5143fa44f728746eb6a7c7be35d44",
+          "seo": {
+            "title": "紅海 — 专线网络加速服务",
+            "keywords": "紅海,VPN,机场,专线加速,流媒体解锁,IPLC",
+            "description": "紅海提供深海级稳定专线与琥珀级低延迟加速，覆盖流媒体解锁、游戏加速与团队组网，按月或按年订阅。"
+          },
+          "provider": "grok",
+          "model": "glm-5.3",
+          "design": {
+            "no": "6872",
+            "hero": "1 左文右信息面板的不对称分栏",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qfhxm.cn",
+    "host": "p-764f2d96d9.qfhxm.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "b62f13c1301f562d45983f07e2399d58d78c787ec59bfc870674f7a953f26ec6",
+    "sitemap.xml": "06fcafb54f023d129bbc0775aa0423354a24282cf9cc907d15abac6d7d7cea69",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "83115215450962c9cacdf7e8cf719cc4f3221a582c4c3211909fef7330691e9b",
+    "robots.txt": "d033f6d75ab06cc3807ec32d2d2ab978529e7783f4c8c0be10102b130f29aeb2",
+    "341232266e6887afcbd3d2604d203323.txt": "407dbf8da3110094487f6bf3fd15ca320b19f9ce2573d889c977fc029d8ad6db"
+  },
+  "revision": "6856df7a108ef08aea136fcad35bfe635eaaa8a50596143b83151e05efdd9a0b"
+}
